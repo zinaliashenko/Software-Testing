@@ -1,0 +1,75 @@
+{ 
+    "list":
+	{
+		"people": [
+		{
+			"id": "0001",
+			"name": "Andrii",
+			"city": "Kyiv",
+			"address":
+			{
+				"street": "Nova",
+				"house": 2,
+				"flatnumber": 48
+			},
+			"contacts":
+			{
+				"phone": "0931112233",
+				"email": "andrii@gmail.com",
+				"skype": "andrii48"
+			}
+		},
+		{
+			"id": "0002",
+			"name": "Ivan",
+			"city": "Chernigiv",
+			"address":
+			{
+				"street": "Peremogy",
+				"house": 40,
+				"flatnumber": 30
+			},
+			"contacts":
+			{
+				"phone": "0670005566",
+				"email": "ivan@gmail.com",
+				"skype": "ivan30"
+			}
+		},
+		{
+			"id": "0003",
+			"name": "Stepan",
+			"city": "Kherson",
+			"address":
+			{
+				"street": "Welcomehome",
+				"house": 20,
+				"flatnumber": 22
+			},
+			"contacts":
+			{
+				"phone": "0956667700",
+				"email": "stepan@gmail.com",
+				"skype": "stepan22"
+			}
+		},
+		{
+			"id": "0004",
+			"name": "Maksym",
+			"city": "Cherkassy",
+			"address":
+			{
+				"street": "Zelena",
+				"house": 10,
+				"flatnumber": 90
+			},
+			"contacts":
+			{
+				"phone": "0661012200",
+				"email": "maksym@gmail.com",
+				"skype": "maksym90"
+			}
+		}
+		          ]
+	}
+}
